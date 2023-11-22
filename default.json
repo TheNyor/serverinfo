@@ -1,53 +1,53 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": false,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "Home",
-          "title1": "Willkommen auf Apocalypse",
-          "text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
-          "imageurl": ""
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Shop",
-          "title1": "Shop Infos",
-          "text1": "123",
-          "imageurl": ""
-        }
-      },
-      {
-        "tab3": {
-          "layout": 3,
-          "buttontext": "CryoPod",
-          "title1": "CryoPod Infos",
-          "text1": "Cryopods: Benutzung auf eigene Gefahr!\nDa die Mod nocht in der frühen Entwicklung ist - Kann es passieren das eure Dinos verschwinden!\nWenn es passiert - BItte einen Admin kontaktieren!",
-          "imageurl": ""
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Discord",
-          "url": "https://discord.com/invite/UkUT5EaAz9"
-        }
-      }
-    ]
-  }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": false,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Home",
+                    "title1": "Willkommen auf Apocalypse",
+                    "text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Shop",
+                    "title1": "Shop Infos",
+                    "text1": "123",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "CryoPod",
+                    "title1": "CryoPod Infos",
+                    "text1": "Cryopods: Benutzung auf eigene Gefahr!\nDa die Mod nocht in der frühen Entwicklung ist - Kann es passieren das eure Dinos verschwinden!\nWenn es passiert - BItte einen Admin kontaktieren!",
+                    "imageurl": ""
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.com/invite/UkUT5EaAz9"
+                }
+            }
+        ]
+    }
 }

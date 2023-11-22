@@ -16,7 +16,7 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "Home",
+                    "buttontext": "Server Infos",
                     "title1": "Willkommen auf Apocalypse",
                     "text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
                     "imageurl": ""
@@ -25,18 +25,18 @@
             {
                 "tab2": {
                     "layout": 1,
-                    "buttontext": "Shop",
-                    "title1": "Shop Infos",
-                    "text1": "123",
+                    "buttontext": "Shop Infos",
+                    "title1": "Shop",
+                    "text1": "Alle 30 Minuten Spielzeit bekommt man 5 Coins./nDruch das Töten von Alphas können Goldcoins erfarmt werden/nGoldcoins können im Shop gegen Coins eingetauscht werden.",
                     "imageurl": ""
                 }
             },
             {
                 "tab3": {
                     "layout": 1,
-                    "buttontext": "Cryopod",
-                    "title1": "Cryopod Info",
-                    "text1": "12345",
+                    "buttontext": "Cryopod Infos",
+                    "title1": "Cryopod",
+                    "text1": "Da die Mod noch in denn Kinderschuhen ist - Kann es passieren das eure Dino verschhwinden./nWenn das passiert bitte einem Admin schreiben!",
                     "imageurl": ""
                 }
             }

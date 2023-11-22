@@ -24,10 +24,19 @@
             },
             {
                 "tab2": {
-                    "layout": 2,
+                    "layout": 1,
                     "buttontext": "Shop",
                     "title1": "Shop Infos",
                     "text1": "123",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Cryopd",
+                    "title1": "Cryopod Info",
+                    "text1": "12345",
                     "imageurl": ""
                 }
             }

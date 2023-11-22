@@ -20,21 +20,7 @@
           "title1": "Willkommen auf Apocalypse",
           "text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
           "imageurl": ""
-        },
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Shop",
-          "title1": "Shop Infos",
-          "text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
-          "imageurl": ""
-        },
-        "tab3": {
-          "layout": 3,
-          "buttontext": "CryoPod",
-          "title1": "CryoPod Infos",
-          "text1": "Cryopods: Benutzung auf eigene Gefahr!\nDa die Mod noch in der frühen Entwicklung ist - kann es passieren das ihr eure DInos verliert\nWenn das passiert bitte einen Admin schreiben!",
-          "imageurl": ""
-        },
+        }
       },
     ],
     "links": [

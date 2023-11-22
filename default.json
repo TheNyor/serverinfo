@@ -18,26 +18,32 @@
                     "layout": 1,
                     "buttontext": "Server Infos",
                     "title1": "Willkommen auf Apocalypse",
-                    "text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
-                    "imageurl": ""
+					"text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
+                    "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },
             {
                 "tab2": {
-                    "layout": 1,
+                    "layout": 2,
                     "buttontext": "Shop Infos",
                     "title1": "Shop",
+                    "title2": "Right title",
                     "text1": "Alle 30 Minuten Spielzeit bekommt man 5 Coins.\nDruch das Töten von Alphas können Goldcoins erfarmt werden\nGoldcoins können im Shop gegen Coins eingetauscht werden.",
-                    "imageurl": ""
+                    "text2": "This text goes into the right box",
+                    "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },
             {
                 "tab3": {
-                    "layout": 1,
+                    "layout": 3,
                     "buttontext": "Cryopod Infos",
                     "title1": "Cryopod",
-                    "text1": "Da die Mod noch in denn Kinderschuhen ist - Kann es passieren das eure Dino verschhwinden.\nWenn das passiert bitte einem Admin schreiben!",
-                    "imageurl": ""
+                    "title2": "Top right title",
+                    "title3": "Bottom left title",
+                    "text1": "Da die Mod noch in denn Kinderschuhen ist - Kann es passieren das eure Dinos verschwinden.\nWenn das passiert bitte einen Admin schreiben!",
+                    "text2": "This text goes into the top right box",
+                    "text3": "This text goes into the bottom right box",
+                    "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             }
         ],

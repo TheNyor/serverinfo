@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Server Infos",
                     "title1": "Willkommen auf Apocalypse",
-					"text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
+                    "text1": "Auto Unlock: Tek Binoculars.\nCryopods: Benutzung auf eigene Gefahr!\nShop: Alle 30 Minuten +10 Coins & Goldcoin Drops von Alphas.",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },
@@ -28,8 +28,8 @@
                     "buttontext": "Shop/Missionen",
                     "title1": "Shop",
                     "title2": "Missionen",
-                    "text1": "Alle 30 Minuten Spielzeit bekommt man 5 Coins.\nDruch das Töten von Alphas können Goldcoins erfarmt werden\nGoldcoins können im Shop gegen Coins eingetauscht werden.",
-                    "text2": "Text :)",
+                    "text1": "Alle 30 Minuten Spielzeit bekommt man 5 Coins.\nDruch das Töten von Alphas können Goldcoins erfarmt werden.\nGoldcoins können im Shop gegen Coins eingetauscht werden.",
+                    "text2": "Zu denn Missionen gibt es nicht viel zu sagen.\nMission Starten, Erfolgreich beenden, Behlonung erhalten.",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },

@@ -17,8 +17,10 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Server Infos",
-                    "title1": "Willkommen auf Apocalypse",
+                    "title1": "Allgemein",
+                    "title2": "Updates",
                     "text1": "Aktuell gibt es nichts neues.",
+                    "text2": "23.11\nTest",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },

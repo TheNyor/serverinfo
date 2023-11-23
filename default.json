@@ -18,9 +18,7 @@
                     "layout": 1,
                     "buttontext": "Server Infos",
                     "title1": "Willkommen auf Apocalypse",
-                    "title2": "Test",
                     "text1": "Aktuell gibt es nichts neues.",
-                    "text2": "Keine Probleme bekannt.",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },
@@ -38,13 +36,28 @@
             {
                 "tab3": {
                     "layout": 3,
+                    "buttontext": "Updates",
+                    "title1": "Server",
+                    "title2": "Shop",
+                    "title3": "Missionen",
+                    "text1": "23.11\nTest",
+                    "text2": "23.11\nTest2",
+					"text3": "23.11\nTest3",
+                    "imageurl": "https://i.imgur.com/ZukdBK8.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 4,
                     "buttontext": "Mod Infos",
                     "title1": "Cryopod",
                     "title2": "Shop/Missionen",
                     "title3": "Backpack",
+					"title4": "WBUI2",
                     "text1": "Da die Mod noch in denn Kinderschuhen ist,\nKann es passieren das eure Dinos verschwinden.\nWenn das passiert bitte einen Admin schreiben!",
                     "text2": "Keine Probleme bekannt.",
                     "text3": "Keine Probleme bekannt.",
+					"text4": "Keine Probleme bekannt.",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             }

@@ -16,11 +16,11 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "Shop/Missionen",
-                    "title1": "Shop",
-                    "title2": "Missionen",
-                    "text1": "Alle 30 Minuten Spielzeit bekommt man 5 Coins.\nDruch das Töten von Alphas können Goldcoins erfarmt werden.\nGoldcoins können im Shop gegen Coins eingetauscht werden.",
-                    "text2": "Zu denn Missionen gibt es nicht viel zu sagen.\nMission Starten, Erfolgreich beenden, Behlonung erhalten.",
+                    "buttontext": "Server Infos",
+                    "title1": "Willkommen auf Apocalypse",
+					"title2": "Test",
+                    "text1": "Aktuell gibt es nichts neues.",
+					"text2": "Keine Probleme bekannt.",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },

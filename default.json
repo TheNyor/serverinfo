@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Server Infos",
                     "title1": "Willkommen auf Apocalypse",
-                    "text1": "Aktuell gibt es nichts neues.",
+                    "text1": "ServerSettings: Die Settings sind auf unserem Discord Server zu finden. (ark)\n",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },
@@ -40,7 +40,7 @@
                     "title1": "Server",
                     "title2": "Shop",
                     "title3": "Missionen",
-                    "text1": "23.11\nTest",
+                    "text1": "23.11\nTest1",
                     "text2": "23.11\nTest2",
 					"text3": "23.11\nTest3",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"

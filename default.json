@@ -8,7 +8,7 @@
             "DisableIconText": false,
             "IconPosition": 0,
             "IconTextColor": 0,
-            "OpenOnStart": true,
+            "OpenOnStart": false,
             "OpenOnStartOnlyNewPlayers": true,
             "UpdateInterval": 12
         },
@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Server Infos",
                     "title1": "Willkommen auf Apocalypse",
-                    "text1": "\nDurch einen Fehler im Missionsystem wurde dies nun erneuert.\nWeitere Missionen werden folgen.\n\n\nNeulinge: Starter Truhe im Shop. -> Inventar unten Links.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin: Nyor",
+                    "text1": "\nDurch einen Fehler im Missionsystem wurde dies nun erneuert.\nWeitere Missionen werden folgen.\n\n\nNeulinge: Starter Truhe im Shop. -> Inventar unten Links.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAdmin: Nyor",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },

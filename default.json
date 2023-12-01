@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Server Infos",
                     "title1": "Willkommen auf Apocalypse",
-                    "text1": "\nIhr möchtet gewisse Missionen oder Items/Dinos im Shop?\nDann sagt mir Bescheid -> Nyor\n\n\n<TextStyle.Green>Neulinge: Starter Truhe im Shop. -> Inventar unten Links.</>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Red>Neulinge:Admin:Nyor</>",
+                    "text1": "\nIhr möchtet gewisse Missionen oder Items/Dinos im Shop?\nDann sagt mir Bescheid -> Nyor\n\n\n<TextStyle.Green>Neulinge: Starter Truhe im Shop. -> Inventar unten Links.</>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Red>Admin:Nyor</>",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },

@@ -25,29 +25,16 @@
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "Shop/Missionen",
-                    "title1": "Shop",
-                    "title2": "Missionen",
-                    "text1": "Alle 30 Minuten Spielzeit bekommt man 5 Coins.\nDruch das Töten von Alphas können Goldcoins erfarmt werden.\nGoldcoins können im Shop gegen Coins eingetauscht werden.\n\n\nWarum sind Babys im Shop teurer?:\nBabys können geprägt werden - weshalb sie stärker werden als normale Tames.",
-                    "text2": "Zu denn Missionen gibt es nicht viel zu sagen.\nMission Starten, Erfolgreich beenden, Behlonung erhalten.",
+                    "buttontext": "Updates",
+                    "title1": "Server",
+                    "title2": "Shop/Missionen",
+                    "text1": "01.12\nDie Mod QoL+ wurde hinzugefügt\nBabyMatureSpeedMultiplier: 40.0 -> 30.0\nBabyImprintAmountMultiplier: 10.0 -> 3.0\nBabyCuddleIntervalMultiplier: 0.005 -> 0.030\n\n30.11\nDie Mod Backpack wurde entfernt.\nDie Mod Cliffans Backpacks wurde hinzugefügt.",
+                    "text2": "01.12\nDino Shop: Max Level Yuty wurde hinzugefügt.\nBaby Shop: Anky und Doedi wurden hinzugefügt.\n\n30.11\nMunitionstasche wurde hinzugefügt.\nSattel BP Truhe wurde hinzugefügt.\nKill Missionen: Alpha Raptor, Rex, Mosa und Tuso wurden hinzugefügt.\nTaming Missionen: Megalodon, Carcha, Giga und Titanosaurus wurden hinzugefügt.\n\n25.11:\nKill und Taming Missionen wurden resetet.\n\n28.11\nWaffentruhe und Werkzeugtruhe wurden hinzugefügt.\nDino Shop wurde erweitert.",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },
             {
                 "tab3": {
-                    "layout": 3,
-                    "buttontext": "Updates",
-                    "title1": "Server",
-                    "title2": "Shop",
-                    "title3": "Missionen",
-                    "text1": "01.12\nDie Mod QoL+ wurde hinzugefügt\nBabyMatureSpeedMultiplier: 40.0 -> 30.0\nBabyImprintAmountMultiplier: 10.0 -> 3.0\nBabyCuddleIntervalMultiplier: 0.005 -> 0.030\n\n30.11\nDie Mod Backpack wurde entfernt.\nDie Mod Cliffans Backpacks wurde hinzugefügt.",
-                    "text2": "01.12\nDino Shop: Max Level Yuty wurde hinzugefügt.\nBaby Shop: Anky und Doedi wurden hinzugefügt.\n\n30.11\nMunitionstasche wurde hinzugefügt.\nSattel BP Truhe wurde hinzugefügt.\n\n28.11\nWaffentruhe und Werkzeugtruhe wurden hinzugefügt.\nDino Shop wurde erweitert.",
-                    "text3": "30.11\nKill Missionen: Alpha Raptor, Rex, Mosa und Tuso wurden hinzugefügt.\nTaming Missionen: Megalodon, Carcha, Giga und Titanosaurus wurden hinzugefügt.\n\n25.11:\nKill und Taming Missionen wurden resetet.",
-                    "imageurl": "https://i.imgur.com/ZukdBK8.png"
-                }
-            },
-            {
-                "tab4": {
                     "layout": 4,
                     "buttontext": "Mod Infos",
                     "title1": "Cryopod",

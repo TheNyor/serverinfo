@@ -60,6 +60,23 @@
                     "text4": "Nanny Imprint Visual Bug: Out of Render gehen oder Cryopod benutzen.\n\n\n\n\n\n\n\nBekannte Probleme.",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
+            },
+            {
+                "tab5": {
+                    "layout": 5,
+                    "buttontext": "Test",
+                    "title1": "1",
+                    "title2": "2",
+                    "title3": "3",
+                    "title4": "4",
+                    "title5": "5",
+                    "text1": "Test1",
+                    "text2": "Test2",
+                    "text3": "Test3",
+                    "text4": "Test4",
+                    "text4": "Test5",
+                    "imageurl": "https://i.imgur.com/ZukdBK8.png"
+                }
             }
         ],
         "links": [

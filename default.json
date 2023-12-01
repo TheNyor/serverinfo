@@ -57,7 +57,7 @@
                     "text1": "Keine Probleme bekannt.",
                     "text2": "Keine Probleme bekannt.",
                     "text3": "Backpacks können mit E ausgerüstet werden.\nGewichtsreduktion: Tier1 30%, Tier2 50%, Tier3 90%\n\n\n\n\n\n\n\n\nKeine Probleme bekannt.",
-                    "text4": "Nanny: Imprint Fortschritt wird erst nach Server Restart oder nach Benutzung eines Crypods richtig angezeigt.\n\n\n\n\n\n\n\nBekannte Probleme.",
+                    "text4": "Nanny Imprint %: -> Visual Bug: Out of Render gehen oder Cryopod benutzen.\n\n\n\n\n\n\n\nBekannte Probleme.",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             }

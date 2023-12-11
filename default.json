@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "Server Infos",
                     "title1": "Willkommen auf Apocalypse",
-                    "text1": "\nTurkey Trial is Live!\nFindet und Tötet Turkeys!\nSkins können in der Smithy hergestellt werden.\n\n\n<TextStyle.Green>Neulinge: Starter Truhe im Shop. -> Inventar unten Links.</>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Red>Admin:Nyor</>",
+                    "text1": "\n<TextStyle.Green>Turkey Trial is Live!</>\nFindet und Tötet Turkeys!\nSkins können in der Smithy hergestellt werden.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<TextStyle.Red>Admin:Nyor</>",
                     "imageurl": "https://i.imgur.com/ZukdBK8.png"
                 }
             },

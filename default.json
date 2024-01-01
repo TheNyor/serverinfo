@@ -41,7 +41,7 @@
                     "title2": "Shop/Missionen",
                     "title3": "Cliffans Rucksäcke",
                     "title4": "QoL+",
-                    "text1": "Crafting Table:\nFrom Level 65 - Special items can be crafted.\n\nWyvern:\nWyverns can be tamed via knockout.\n\nItems Required:\nFire Wyvern: Fire Claw\nLightning Wyvern: Lightning Claw\nPoison Wyvern: Poison Claw\nIce Wyvern: Crystal\nTek Wyvern: Element Piece\n\nThe Items are obtained from dead Wyverns.\nWyvern Milk can be taken from Female Wyvern.\n\n<TextStyle.Green>No Problems Known.</>",
+                    "text1": "Crafting Table:\nFrom Level 15 - Special items can be crafted.\n\nHowTo Tame Dinos:\nDinos can be tamed via knockout.\n\nItems Required:\nFire Wyvern: Fire Claw\nLightning Wyvern: Lightning Claw\nPoison Wyvern: Poison Claw\nIce Wyvern: Crystal\nTek Wyvern: Element Piece\nMagmasaur: Ambergris\nShadowmane: Shadowsteak\n\nThe Items are obtained from Dead Bodys.\nWyvern Milk can be taken from Female Wyvern.\n\n<TextStyle.Green>No Problems Known.</>",
                     "text2": "You get 5 coins every 30 minutes of play.\nGold Coins can be farmed by killing Alphas.\nGold coins can be exchanged for coins in the shop.\n\nThere's not much to say about the missions.\nStart mission, complete successfully, receive reward.\n\n\n\n\n<TextStyle.Green>No Problems Known.</>",
                     "text3": "Backpacks can be equipped with E.\nWeight: Tier1 30%, Tier2 50%, Tier3 90%\n\n\n\n\n\n\n\n\n<TextStyle.Green>No Problems Known.</>",
                     "text4": "Nanny Imprint Visual Bug: Going Out of Render or Using Cryopod.\n\n\n\n\n\n\n\n\n\n<TextStyle.Green>Known Problems.</>",
